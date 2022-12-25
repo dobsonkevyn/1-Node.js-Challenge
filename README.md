@@ -1,8 +1,8 @@
 
-  # Node.JS
+  # Node.Js
   
   
-  ![badge](https://img.shields.io/badge/license--blue)
+  ![badge](https://img.shields.io/badge/license-MIT-blue)
     
   ## Table-of-Contents
   * [Description](#description)
@@ -32,7 +32,7 @@
   ## [License](#table-of-contents)
   The application is covered under the following license:
   
-  [](https://choosealicense.com/licenses/)
+  [MIT](https://choosealicense.com/licenses/MIT)
     
     
   ## [Contributing](#table-of-contents)
